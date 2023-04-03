@@ -1,0 +1,346 @@
+---
+title: "Tonic"
+subtitle: "pitch hierarchies in human music perception"
+author: "-<br>Courtney B. Hilton"
+format: 
+  revealjs:
+    theme: [default, styles.scss]
+    slide-number: true
+    template-partials:
+      - title-slide.html
+title-slide-attributes:
+  data-background-color: "#00467F"
+  data-background-size: contain
+date: 2023-03-16
+date-format: long
+title-logo: "./media/logos/auckland.png"
+---
+
+------------------------------------------------------------------------
+
+
+## structure of human music perception
+
+::: {.container-col .incremental .center}
+
+::: {.fork-lines .fragment}
+:::
+
+::: container-row
+::: {.container-col .incremental}
+::: {.element .fragment}
+pitch
+:::
+
+::: fragment
+::: line
+:::
+
+::: element
+tonality
+:::
+:::
+:::
+
+::: {.container-col .incremental}
+::: {.element .fragment}
+rhythm
+:::
+
+::: fragment
+::: line
+:::
+
+::: element
+meter
+:::
+:::
+:::
+:::
+:::
+
+## What does pitch [structure]{.accent} mean?
+
+::: {.container-col .center}
+::: {.element .fragment}
+**A discrepancy between**
+:::
+
+::: {.fork-lines .fragment}
+:::
+
+::: {.container-row .incremental}
+::: {.element .fragment}
+**physical representation**
+:::
+
+::: {.element .fragment}
+**mental representation**
+:::
+:::
+:::
+
+## Perception of pitch 'height'
+
+<div style="text-align:center;">
+![](media/figs/pitch_range.png){width="60%"}
+</div>
+
+<!-- ::: {.fragment layout="[[-1], [1], [-1]]"} -->
+<!-- ![](media/figs/pitch_range.png){fig-align="center" width="650px"} -->
+<!-- ::: -->
+
+<audio class="media_example hide" controls>
+<source src="media/audio/pitch_sweep.wav" type="audio/wav">
+</audio>
+
+## Perception of pitch class
+
+<div style="text-align:center;">
+![](media/figs/tone_circle.png){width="50%"}
+</div>
+
+## Perception of pitch class
+
+<div style="text-align:center;">
+![](media/figs/tone_circle_c_major.png){width="50%"}
+</div>
+
+## Perception of pitch class
+
+
+<div style="text-align:center;">
+<video class="media_example" controls>
+<source src="media/videos/scale_example.mp4" type="video/mp4">
+</video>
+</div>
+
+## Hierarchy of tonal function
+
+
+<div style="text-align:center;">
+![](media/figs/tone_circle.png){width="50%"}
+</div>
+
+## Hierarchy of tonal function
+
+<div style="text-align:center;">
+![](media/figs/tone_circle_c_major.png){width="50%"}
+</div>
+
+## Hierarchy of tonal function
+
+
+<div style="text-align:center;">
+![](media/figs/tone_circle_c_major_triad.png){width="50%"}
+</div>
+
+## Hierarchy of tonal function
+
+<div style="text-align:center;">
+![](media/figs/tone_circle_c_tonic.png){width="50%"}
+</div>
+
+## Measuring tonal hierarchies
+
+::: {.columns .fragment}
+::: {.column width="50%"}
+<img src="./media/images/krumhansl_shepard_1979.png" class="center" width="80%"/></img>
+:::
+
+::: {.column width="50%"}
+<img src="./media/images/krumhansl.jpeg" class="center" width="50%"/></img> <img src="./media/images/shepard.jpeg" class="center" width="40%"/></img>
+:::
+:::
+
+<audio class="media_example hide" controls>
+
+<source src="media/audio/probe_exampleT.mp3" type="audio/mp3">
+
+</audio>
+
+## Measuring tonal hierarchies
+
+::: columns
+::: {.column width="50%"}
+<img src="./media/images/krumhansl_shepard_1979.png" class="center" width="80%"/></img>
+:::
+
+::: {.column width="50%"}
+<img src="./media/images/krumhansl.jpeg" class="center" width="50%"/></img> <img src="./media/images/shepard.jpeg" class="center" width="40%"/></img>
+:::
+:::
+
+<audio class="media_example hide" controls>
+
+<source src="media/audio/probe_exampleTT.mp3" type="audio/mp3">
+
+</audio>
+
+## Measuring tonal hierarchies
+
+::: {.columns .incremental}
+::: {.column width="50%"}
+<img src="./media/figs/probe_tone.png" class="center" width="80%"/></img>
+:::
+
+::: {.column .fragment width="50%"}
+<img src="./media/figs/probe_tone_exponential.png" class="center" width="80%"/></img>
+:::
+:::
+
+## Universal generalization functions
+
+::: {.columns .incremental}
+::: {.column .fragment width="50%"}
+<img src="./media/images/shepard_1987.png" class="center" width="80%"/></img>
+:::
+
+::: {.column .fragment width="50%"}
+<img src="./media/images/shepard_1987b.png" class="center" width="60%"/></img>
+:::
+:::
+
+## Applied to [Tonic]{.accent}
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+a 'signature' of tonal hierarchy
+:::
+
+::: {.element .fragment}
+generalizes to all tonal systems
+:::
+
+::: {.element .fragment}
+not specific to any particular measure
+:::
+:::
+
+## What are our research questions?
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+1\. Are tonal hierarchies part of human psychology?
+:::
+
+::: {.element2 .fragment}
+What is the effect of experience on tonal hierarchies?
+:::
+
+::: {.element2 .fragment}
+What is the developmental trajectory of tonal hierarchies?
+:::
+
+::: {.element .fragment}
+2\. How are tonal hierarchies reflected in the world's music?
+:::
+:::
+
+## How are we answering these questions?
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+1\. Are tonal hierarchies part of human psychology?
+:::
+
+::: {.element2 .fragment}
+**Ideally:** causally intervene on development/experience and measure how this affects tonal profiles intraindividually holding stimuli constant
+:::
+
+::: {.element2 .fragment}
+**Actually:** measure tonal profiles inter-individually in diverse samples and analyse variation at group level holding stimuli constant
+:::
+
+:::
+
+## How are we answering these questions?
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+2\. How are tonal hierarchies reflected in the world's music?
+:::
+
+::: {.element2 .fragment}
+**Ideally:** analyse variation in tonal profiles for the world's music holding the perceiver constant
+:::
+
+::: {.element2 .fragment}
+**Actually:** analyse variation in tonal profiles for a diverse sample of music averaging across diverse sample of people
+:::
+
+:::
+
+## How are we going to measure this?
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+1\. Web-based citizen science on themusiclab.org
+:::
+
+::: {.element2 .fragment}
+**Study 1**: measuring tonal hierarchies using the tone-probe method in naturalistic stimuli
+:::
+
+::: {.element2 .fragment}
+**Study 2**: measuring tonal hierarchies via their effect on short-term memory in artificial stimuli
+:::
+
+:::
+
+## How are we going to measure this?
+
+::: {.container-col .incremental .center}
+
+::: {.element}
+2\. Studies in the ELLA/baby lab
+:::
+
+::: {.element2 .fragment}
+**Study 3**: validation study of using pupillometry to implicitly measure tonal hierarchies in adults
+:::
+
+::: {.element2 .fragment}
+**Study 4**: Using pupillometry to implicitly measure tonal hierarchies in babies (from ~5months - 3 years)
+:::
+
+:::
+
+## What might this look like? {.center}
+
+## What are the next steps?
+
+::: {.container-col .incremental .center}
+
+::: {.element2 .fragment}
+Finish setting up the baby lab and starting piloting!
+:::
+
+::: {.element2 .fragment}
+Iterate a gamified design for citizen science tone-probe and memory studies
+:::
+
+::: {.element2 .fragment}
+Ideally develop some better demographic measures of specific musical listening/experience
+:::
+
+:::
+
+# The end
+
+------------------------------------------------------------------------
+
+```{=html}
+<script>
+// audio control
+  document.addEventListener('keydown', e => {
+    if ('t' === e.key) {
+        Reveal.getCurrentSlide().getElementsByClassName("media_example")[0].play()
+      } else if ('y' === e.key) {
+        Reveal.getCurrentSlide().getElementsByClassName("media_example")[0].pause()
+      } else if ('u' === e.key) {
+        Reveal.getCurrentSlide().getElementsByClassName("media_example")[0].currentTime = 0;
+      };
+    });
+</script>
+```
